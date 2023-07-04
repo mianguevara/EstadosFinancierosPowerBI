@@ -28,7 +28,7 @@ Con este laboratorio práctico, aprenderemos a utilizar Power BI para construir 
 
 Repite los pasos anteriores desde el filtrado de columnas para los datos de la tabla "BG".
 
-![Images](Aspose.Words.f21801ad-dacc-40fa-89c6-f79186ad441d.001.png)
+![](Images/Aspose.Words.f21801ad-dacc-40fa-89c6-f79186ad441d.001.png)
 
 **Paso 2.1 Creación tablas auxiliares:**
 
