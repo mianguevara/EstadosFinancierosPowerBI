@@ -73,7 +73,7 @@ P&G Trimestre = SUMMARIZE(
 
 ![Interfaz de usuario gráfica, Aplicación
 
-Descripción generada automáticamente](Aspose.Words.f21801ad-dacc-40fa-89c6-f79186ad441d.003.png)
+Descripción generada automáticamente](Images/Aspose.Words.f21801ad-dacc-40fa-89c6-f79186ad441d.003.png)
 
 **Paso 2.3: Creación de medidas**
 
@@ -137,7 +137,7 @@ Pasivo PA = CALCULATE ([Pasivos], DATEADD (Calendario[Date], -1, QUARTER))
 
 ![Imagen de la pantalla de un celular con letras
 
-Descripción generada automáticamente](Aspose.Words.f21801ad-dacc-40fa-89c6-f79186ad441d.004.png)
+Descripción generada automáticamente](Images/Aspose.Words.f21801ad-dacc-40fa-89c6-f79186ad441d.004.png)
 
 **Paso 3: Creación del dashboard**
 
@@ -149,7 +149,7 @@ Descripción generada automáticamente](Aspose.Words.f21801ad-dacc-40fa-89c6-f79
 
 ![Interfaz de usuario gráfica, Aplicación
 
-Descripción generada automáticamente](Aspose.Words.f21801ad-dacc-40fa-89c6-f79186ad441d.005.png)
+Descripción generada automáticamente](Images/Aspose.Words.f21801ad-dacc-40fa-89c6-f79186ad441d.005.png)
 
 ¡Felicitaciones! Has completado un análisis de estados financieros en Power BI. Ahora puedes utilizar estos datos para análisis, visualizaciones o cualquier otro propósito necesario.
 
