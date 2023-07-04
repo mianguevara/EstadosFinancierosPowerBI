@@ -37,9 +37,7 @@ Repite los pasos anteriores desde el filtrado de columnas para los datos de la t
 
 Repite los pasos anteriores la tabla "BG" y renombrar la tabla como Cuenta detalle - BG.
 
-![Tabla
-
-Descripción generada automáticamente](Aspose.Words.f21801ad-dacc-40fa-89c6-f79186ad441d.002.png)
+![](Aspose.Words.f21801ad-dacc-40fa-89c6-f79186ad441d.002.png)
 
 **Paso 2.2: Modelo de datos**
 
