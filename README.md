@@ -37,7 +37,7 @@ Repite los pasos anteriores desde el filtrado de columnas para los datos de la t
 
 Repite los pasos anteriores la tabla "BG" y renombrar la tabla como Cuenta detalle - BG.
 
-![](Aspose.Words.f21801ad-dacc-40fa-89c6-f79186ad441d.002.png)
+![](Images/Aspose.Words.f21801ad-dacc-40fa-89c6-f79186ad441d.002.png)
 
 **Paso 2.2: Modelo de datos**
 
@@ -69,9 +69,7 @@ P&G Trimestre = SUMMARIZE(
 
 )
 
-![Interfaz de usuario gráfica, Aplicación
-
-Descripción generada automáticamente](Images/Aspose.Words.f21801ad-dacc-40fa-89c6-f79186ad441d.003.png)
+![](Images/Aspose.Words.f21801ad-dacc-40fa-89c6-f79186ad441d.003.png)
 
 **Paso 2.3: Creación de medidas**
 
@@ -133,9 +131,7 @@ Pasivo PA = CALCULATE ([Pasivos], DATEADD (Calendario[Date], -1, QUARTER))
 
 1. Calcular los mismos ratios del punto 3 pero esta vez utilizando los datos que contenga la información del periodo anterior (PA).
 
-![Imagen de la pantalla de un celular con letras
-
-Descripción generada automáticamente](Images/Aspose.Words.f21801ad-dacc-40fa-89c6-f79186ad441d.004.png)
+![](Images/Aspose.Words.f21801ad-dacc-40fa-89c6-f79186ad441d.004.png)
 
 **Paso 3: Creación del dashboard**
 
